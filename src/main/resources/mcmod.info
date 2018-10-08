@@ -1,0 +1,16 @@
+[
+{
+  "modid": "woowoowoo",
+  "name": "Woo Woo Woo",
+  "description": "Ever get that haunting feeling?",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["The_Icy_One"],
+  "credits": "no u",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
